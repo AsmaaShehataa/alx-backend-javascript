@@ -4,7 +4,7 @@
   "description": "Running unittests using mocha chai and sinon JS",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --require esm"
+    "test": "mocha"
   },
   "author": "AsmaaShehataa",
   "license": "MIT",
